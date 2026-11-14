@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <!-- Mahdi Khodadadi -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drum Kit</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./responsive.css">
+  </head>
+  <body>
+    <header id="header">
+      <nav id="navbar">
+        <div class="header-item">
+          <p id="sound-on">SOUND ON</p>
+        </div>
+        <div class="header-item">
+          <h2 id="website-name">DRUM KIT</h2>
+          <img id="logo" src="./images/DrumKitLogo.png" alt="logo" />
+        </div>
+      </nav>
+    </header>
+    <div class="hero-text">
+      <h1 id="titr-h1">MAKE SOME NOISE</h1>
+      <h3 id="titr-info">Feel the rhythm, Create your beat</h3>
+    </div>
+    <!-- HERO SECTION -->
+    <section class="cards-section">
+      <div class="box-item">
+        <button class="drum w">w</button>
+        <button class="drum a">a</button>
+        <button class="drum s">s</button>
+        <button class="drum d">d</button>
+        <button class="drum j">j</button>
+        <button class="drum k">k</button>
+        <button class="drum l">l</button>
+        <button class="drum fake">👨‍💻</button>
+      </div>
+
+      <div class="volume-control">
+        <div class="show-volume">
+          <!-- <p id="percent"></p> -->
+          <p id="box-name">MASTER VOLUME</p>
+        </div>
+        <input type="range" id="volume" min="0" max="100" value="50" />
+        <span id="volume-value">50%</span>
+      </div>
+    </section>
+    <footer>❤️ Made for music lovers</footer>
+    <script type="module" src="./index.js"></script>
+  </body>
+</html>
