@@ -11,19 +11,19 @@
   }
   .hero-text #titr-h1 {
     margin-top: 14px;
-    font-weight: 600;
+    font-weight: 800;
     font-size: 2rem;
   }
   .hero-text #titr-info {
     opacity: 50%;
     margin-top: 10px;
-    font-size: 16px;
+    font-size: 12px;
   }
   .cards-section {
     display: grid;
     align-items: center;
     justify-content: center;
-    padding: 20px 0px;
+    padding: 100px 50px;
     width: 100%;
   }
   .box-item {
@@ -35,14 +35,14 @@
     justify-content: center;
   }
   .drum {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     color: rgba(0, 0, 0, 0);
     font-size: 0;
   }
   .fake {
     color: rgba(255, 0, 119);
-    font-size: 4rem;
+    font-size: 3rem;
   }
   .volume-control {
     gap: 5px;
