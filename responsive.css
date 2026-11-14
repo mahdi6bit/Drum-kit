@@ -24,25 +24,25 @@
     align-items: center;
     justify-content: center;
     padding: 100px 50px;
-    width: 100%;
+    width: 80%;
   }
   .box-item {
     display: grid;
-    gap: 15px;
+    gap: 5px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     align-items: center;
     justify-content: center;
   }
   .drum {
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     color: rgba(0, 0, 0, 0);
     font-size: 0;
   }
   .fake {
     color: rgba(255, 0, 119);
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .volume-control {
     gap: 5px;
