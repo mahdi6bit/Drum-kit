@@ -22,7 +22,7 @@ An interactive drum kit web application built with HTML, CSS, and JavaScript. Pl
 <hr/>
 view in the Drum kit page:
 <br/>
-github.io/mahdi6bit/Drum-Kit/
+[github.io/mahdi6bit/Drum-Kit/](https://mahdi6bit.github.io/Drum-kit/)
 
 
 <br/>
