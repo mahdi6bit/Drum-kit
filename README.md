@@ -30,4 +30,4 @@ github.io/mahdi6bit/Drum-Kit/
 ScreenShot:
 <br/>
 <br/>
-<img src="screenshot"/>
+<img src="screenshot.png"/>
